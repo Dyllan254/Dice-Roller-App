@@ -1,0 +1,1 @@
+This is an app that simulates the rolling of a dice by clicking the roll button. Button composable was used in developing the app, whereby the random function in the range of 1-6 was used to generate random numbers that represent the 6 faces of a dice. In general, this application was built to showcase tze Button Composable.
